@@ -8,4 +8,5 @@ package com.vogella.gittraining.sharedediting;
 public class MyCopyOfNewClass {
 	String newClass;
 	String nochEine;
+
 }
